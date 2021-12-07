@@ -1,0 +1,7 @@
+{
+  "name": "accordion-v6-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
